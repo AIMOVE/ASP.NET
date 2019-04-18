@@ -1,0 +1,192 @@
+body {
+	margin: 0px; padding: 0px;
+}
+h1 {
+	margin: 0px; padding: 0px;
+}
+h2 {
+	margin: 0px; padding: 0px;
+}
+h3 {
+	margin: 0px; padding: 0px;
+}
+h4 {
+	margin: 0px; padding: 0px;
+}
+h5 {
+	margin: 0px; padding: 0px;
+}
+h6 {
+	margin: 0px; padding: 0px;
+}
+hr {
+	margin: 0px; padding: 0px;
+}
+p {
+	margin: 0px; padding: 0px;
+}
+blockquote {
+	margin: 0px; padding: 0px;
+}
+dl {
+	margin: 0px; padding: 0px;
+}
+dt {
+	margin: 0px; padding: 0px;
+}
+dd {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+ol {
+	margin: 0px; padding: 0px;
+}
+li {
+	margin: 0px; padding: 0px;
+}
+pre {
+	margin: 0px; padding: 0px;
+}
+fieldset {
+	margin: 0px; padding: 0px;
+}
+lengend {
+	margin: 0px; padding: 0px;
+}
+button {
+	margin: 0px; padding: 0px;
+}
+input {
+	margin: 0px; padding: 0px;
+}
+textarea {
+	margin: 0px; padding: 0px;
+}
+th {
+	margin: 0px; padding: 0px;
+}
+td {
+	margin: 0px; padding: 0px;
+}
+body {
+	font: 12px Tahoma, Helvetica, Arial, "宋体", sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+button {
+	font: 12px Tahoma, Helvetica, Arial, "宋体", sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+input {
+	font: 12px Tahoma, Helvetica, Arial, "宋体", sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+select {
+	font: 12px Tahoma, Helvetica, Arial, "宋体", sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+textarea {
+	font: 12px Tahoma, Helvetica, Arial, "宋体", sans-serif; font-size-adjust: none; font-stretch: normal;
+}
+h1 {
+	font-size: 18px;
+}
+h2 {
+	font-size: 16px;
+}
+h3 {
+	font-size: 14px;
+}
+h4 {
+	font-size: 100%;
+}
+h5 {
+	font-size: 100%;
+}
+h6 {
+	font-size: 100%;
+}
+address {
+	font-style: normal;
+}
+cite {
+	font-style: normal;
+}
+dfn {
+	font-style: normal;
+}
+em {
+	font-style: normal;
+}
+var {
+	font-style: normal;
+}
+code {
+	font-family: "Courier New", Courier, monospace;
+}
+kbd {
+	font-family: "Courier New", Courier, monospace;
+}
+pre {
+	font-family: "Courier New", Courier, monospace;
+}
+samp {
+	font-family: "Courier New", Courier, monospace;
+}
+tt {
+	font-family: "Courier New", Courier, monospace;
+}
+small {
+	font-size: 12px;
+}
+ul {
+	list-style: none;
+}
+ol {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+abbr[title] {
+	border-bottom-color: currentColor; border-bottom-width: 1px; border-bottom-style: dotted; cursor: help;
+}
+acronym[title] {
+	border-bottom-color: currentColor; border-bottom-width: 1px; border-bottom-style: dotted; cursor: help;
+}
+q::before {
+	content: "";
+}
+q::after {
+	content: "";
+}
+legend {
+	color: rgb(0, 0, 0);
+}
+fieldset {
+	border: currentColor;
+}
+img {
+	border: currentColor;
+}
+button {
+	font-size: 100%;
+}
+input {
+	font-size: 100%;
+}
+select {
+	font-size: 100%;
+}
+textarea {
+	font-size: 100%;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+hr {
+	border: currentColor; height: 1px;
+}
+html {
+	overflow-y: scroll;
+}

@@ -1,0 +1,21 @@
+.jawbone-hero .jawbone-hero-image {
+	background: no-repeat 50% 0px / cover; margin: 0px auto; left: 0px; top: 0px; width: 100%; right: 0px; bottom: 0px; position: absolute; z-index: -1;
+}
+.jawbone-hero {
+	height: 100%; min-height: 550px;
+}
+.jawbone-hero .jawbone-hero-image {
+	position: fixed;
+}
+.jawbone-takeover-minimulti#h1 .jawbone-hero-image {
+	background-image: url("../images/1080.jpg");
+}
+.jawbone-takeover-minimulti#h1 .jawbone-hero-image {
+	background-image: url("../images/1024.jpg");
+}
+.jawbone-takeover-minimulti#h1 .jawbone-hero-image {
+	background-image: url("../images/1336.jpg");
+}
+.jawbone-takeover-minimulti#h1 .jawbone-hero-image {
+	background-image: url("../images/1440.jpg");
+}

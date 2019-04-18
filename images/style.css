@@ -1,0 +1,169 @@
+.warp {
+	margin: 4% auto 0px; width: 380px;
+}
+.logo {
+	background: url("../images/logo.png") no-repeat; margin: 0px auto; width: 380px; height: 55px;
+}
+.loginbox {
+	border: 1px solid rgb(189, 189, 189); width: 380px; margin-top: 44px;  
+}
+.cd-user-modal-container {
+	width: 382px; overflow: hidden; position: relative;
+}
+.cd-user-modal-container .cd-switcher::after {
+	clear: both; display: table; content: "";
+}
+.cd-user-modal-container .cd-switcher li
+{
+	width: 100%;
+	text-align: center;
+	padding-bottom: 15px;
+	font-family: Microsoft YaHei;
+	font-size: 16px;
+	margin-top: 35px;
+	float: left;
+	cursor: pointer;
+	color: #000000;
+	font-weight: bold;
+}
+.cd-user-modal-container .cd-switcher li:first-child a {
+	text-decoration: none;
+}
+.cd-user-modal-container .cd-switcher li:last-child a {
+	text-decoration: none;
+}
+.cd-user-modal-container .cd-switcher a {
+	width: 100%; color: rgb(189, 189, 189); line-height: 20px; display: block;
+}
+.cd-user-modal-container .cd-switcher li :hover {
+	color: rgb(255, 255, 255);
+}
+.cd-user-modal-container .cd-switcher li a#current:link {
+	color: rgb(255, 255, 255);
+}
+.cd-user-modal-container .cd-switcher li a#current:visited {
+	color: rgb(255, 255, 255);
+}
+.list {
+	margin: 15px auto; width: 318px;
+}
+.listinp {
+	padding: 0px 10px; border: 1px solid rgb(153, 153, 153); width: 298px; height: 38px; color: rgb(255, 255, 255); font-size: 14px; background-color: rgba(31, 27, 24, 0.7);
+}
+.listinp:focus {
+	border: 1px solid rgb(255, 255, 255); color: rgb(255, 255, 255);
+}
+input {
+	
+}
+.listbox {
+	margin: 0px auto; width: 320px; font-family: Microsoft YaHei; text-decoration: none; border-top-color: rgb(189, 189, 189); border-top-width: 1px; border-top-style: solid;
+}
+.forget {
+	width: 90px; color: rgb(189, 189, 189); font-size: 13px; margin-top: 15px; margin-right: 0px; float: right;
+}
+.remember {
+	margin: 15px auto; color: rgb(255, 255, 255); font-size: 13px; float: left;
+}
+.rememberbox {
+	margin-right: 5px;
+}
+.remember:hover {
+	text-decoration: none;
+}
+.forget:hover {
+	text-decoration: none;
+}
+.forget:hover {
+	color: rgb(255, 255, 255);
+}
+.qqlogin {
+	background: url("../images/qq.png"); width: 20px; height: 20px; margin-top: 11px; margin-left: -20px; float: right;
+}
+.qqlogin:hover {
+	background: url("../images/qqhover.png"); cursor: pointer;
+}
+.login {
+	margin: 30px auto 20px; width: 320px; height: 40px;
+}
+.login .btn {
+	background: rgb(7, 139, 228); border: 0px currentColor; width: 320px; height: 40px; color: rgb(255, 255, 255); line-height: 30px; font-family: Microsoft YaHei; font-size: 14px;
+}
+.login .btn:hover {
+	background: rgb(39, 168, 255); cursor: pointer;
+}
+.register {
+	margin: 0px auto; width: 320px; height: 18px; text-align: center; color: rgb(189, 189, 189); padding-top: 55px; padding-bottom: 15px; font-family: Microsoft YaHei;
+}
+.registerfree {
+	margin: 10px auto; text-align: center; color: rgb(255, 255, 255); font-size: 13px;
+}
+.registerfree:hover {
+	text-decoration: none;
+}
+.download {
+	margin: 24px auto 0px; width: 282px; height: 22px;
+}
+.iPhone {
+	width: 140px; height: 22px; float: left;
+}
+.Android {
+	width: 140px; height: 22px; float: right;
+}
+.line {
+	background: rgb(189, 189, 189); width: 1px; height: 22px; float: left;
+}
+.iphoneicon {
+	width: 22px; height: 22px; margin-right: 10px; margin-left: 30px; float: left;
+}
+.Androidicon {
+	width: 22px; height: 22px; margin-right: 10px; margin-left: 30px; float: left;
+}
+.iphoneicon {
+	background: url("../images/iphonecolor.png");
+}
+.iphoneicon:hover {
+	background: url("../images/iphonehover.png");
+}
+.Androidicon {
+	background: url("../images/Androidcolor.png");
+}
+.Androidicon:hover {
+	background: url("../images/Androidhover.png");
+}
+.iPhone a {
+	color: rgb(189, 189, 189); line-height: 22px; font-family: Microsoft YaHei; font-size: 13px; text-decoration: none;
+}
+.Android a {
+	color: rgb(189, 189, 189); line-height: 22px; font-family: Microsoft YaHei; font-size: 13px; text-decoration: none;
+}
+.iPhone a:hover {
+	color: rgb(255, 255, 255);
+}
+.Android a:hover {
+	color: rgb(255, 255, 255);
+}
+.progresstext {
+	margin: 90px auto 0px; width: 400px; height: 60px; text-align: left;
+}
+.li-first {
+	color: rgb(189, 189, 189); line-height: 20px; font-family: Microsoft YaHei; font-size: 12px;
+}
+.codebox {
+	margin: 0px auto; padding: 3px 1px 1px 2px; border: 1px solid rgb(189, 189, 189); width: 199px; height: 199px; text-align: center; background-color: rgb(255, 255, 255);
+}
+.biglist {
+	padding-top: 20px;
+}
+.vericode {
+	border: 1px solid rgb(189, 189, 189); width: 180px; height: 38px; text-indent: 5px; font-size: 12px; background-color: rgba(31, 27, 24, 0.7);
+}
+.vericode:focus {
+	border-style: solid; border-color: rgb(255, 255, 255);
+}
+.error_tip {
+	margin: 0px auto -10px; padding: 3px; border: 1px solid rgb(255, 111, 61); width: 310px; text-align: justify; color: rgb(255, 111, 61); line-height: 16px; font-family: Î¢ÈíÑÅºÚ Light; font-size: 12px;
+}
+.errorimg {
+	background: url("../images/error.png") no-repeat top; margin: 3px; width: 14px; height: 14px; float: left;
+}
